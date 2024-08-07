@@ -1,13 +1,13 @@
-Hi 👋 My name is Chase Wirks
+Hi 👋 My name is Chase
 ============================
 
 Data Scientist and Software Engineer
 ------------------------------------
 
-Currently seated as a Data Scientist working in the AWS Cloud environment. I work with simulations, numerical modeling, and large data analysis. My range of work is from Front-End website design using either Flask or Django framework to Backend data management and analysis.
+Currently working as a Data Scientist and AWS Cloud Engineer, I specialize in simulations, numerical modeling, and large-scale data analysis. My expertise spans from front-end website design using React JS to Django frameworks to back-end data management and analysis.
 
-* 🌍  I'm based in Virginia
-* ✉️  You can contact me at [cwirks01@gmail.com](mailto:cwirks01@gmail.com)
+* 🌍  Florida
+* ✉️  [cwirks01@gmail.com](mailto:cwirks01@gmail.com)
 
 ### Skills
 
