@@ -1,48 +1,117 @@
-Hi 👋 My name is Chase
-============================
+<div align="center">
 
-Data Scientist and Software Engineer
-------------------------------------
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0891b2,100:7C3AED&height=200&section=header&text=Chase%20Wirks&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20Cloud%20Engineer%20%E2%80%A2%20Builder&descSize=18&descAlignY=58&descColor=a0c4ff" />
 
-Currently working as a Data Scientist and AWS Cloud Engineer, I specialize in simulations, numerical modeling, and large-scale data analysis. My expertise spans from front-end website design using React JS to Django frameworks to back-end data management and analysis.
+</div>
 
-* 🌍  Florida
-* ✉️  [cwirks01@gmail.com](mailto:cwirks01@gmail.com)
+<div align="center">
 
-### Skills
+```
+> whoami
+┌─────────────────────────────────────────────────────────────────┐
+│  Data Scientist & AWS Cloud Engineer  •  Based in Florida 🌴    │
+│  Specializing in simulations, numerical modeling,               │
+│  large-scale data analysis, and full-stack development          │
+└─────────────────────────────────────────────────────────────────┘
+```
 
+[![Email](https://img.shields.io/badge/cwirks01@gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cwirks01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-cwirks01-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cwirks01)
+
+</div>
+
+---
+
+## 🧠 What I Do
+
+```python
+chase = {
+    "role":       ["Data Scientist", "AWS Cloud Engineer", "Full-Stack Dev"],
+    "focus":      ["Simulations", "Numerical Modeling", "Large-Scale Data Analysis"],
+    "frontend":   ["React JS", "HTML5", "CSS3"],
+    "backend":    ["Django", "Flask", "Go", "Java"],
+    "cloud":      ["AWS"],
+    "databases":  ["PostgreSQL", "MySQL", "MongoDB", "Oracle"],
+    "bonus":      ["Ethereum", "Web3", "Smart Contracts"],
+    "location":   "🌴 Florida, USA",
+}
+```
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
 <p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-<a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
+### Frontend
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-### Socials
+### Backend & Frameworks
+<p align="left">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
 
-<p align="left"> <a href="https://www.github.com/cwirks01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+### Databases
+<p align="left">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
-### Badges
+### Cloud & Web3
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alchemy-363FF9?style=for-the-badge&logo=alchemy&logoColor=white"/>
+</p>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/cwirks01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cwirks01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📊 GitHub Stats
 
-<a href="http://www.github.com/cwirks01"><img src="https://activity-graph.herokuapp.com/graph?username=cwirks01&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<div align="center">
 
-<a href="https://github.com/cwirks01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwirks01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cwirks01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=7C3AED&text_color=a0c4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwirks01&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=a0c4ff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cwirks01&theme=tokyonight&hide_border=true&background=0D1117&ring=0891b2&fire=7C3AED&currStreakLabel=0891b2&sideLabels=a0c4ff&dates=a0c4ff&sideNums=ffffff&currStreakNum=ffffff" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cwirks01&bg_color=0D1117&color=a0c4ff&line=0891b2&point=7C3AED&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  Thanks for stopping by — let's build something cool 🚀
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0891b2,100:0D1117&height=120&section=footer" />
+
+</div>
