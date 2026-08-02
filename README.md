@@ -87,14 +87,14 @@ chase = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cwirks01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=7C3AED&text_color=a0c4ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwirks01&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=a0c4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cwirks01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=7C3AED&text_color=a0c4ff&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwirks01&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=a0c4ff&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cwirks01&theme=tokyonight&hide_border=true&background=0D1117&ring=0891b2&fire=7C3AED&currStreakLabel=0891b2&sideLabels=a0c4ff&dates=a0c4ff&sideNums=ffffff&currStreakNum=ffffff" />
+<img src="https://streak-stats.demolab.com/?user=cwirks01&theme=tokyonight&hide_border=true&background=0D1117&ring=0891b2&fire=7C3AED&currStreakLabel=0891b2&sideLabels=a0c4ff&dates=a0c4ff&sideNums=ffffff&currStreakNum=ffffff" />
 
 </div>
 
